@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Title</title>
+    <style>
+        .day {
+            float: left;
+            background-color: lightgray;
+            width: 8em;
+            height: 1.5em;
+            border-style: solid;
+            border-width: 1px;
+            border-radius: 7px;
+            text-align: center;
+            cursor: pointer;
+
+        }
+
+        .day:hover {
+            background-color: dimgray;
+        }
+
+        @media all and (max-width: 795px) {
+            .day {
+                float: none;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="day">Понедельник
+</div>
+<div class="day">Вторник
+</div>
+<div class="day">Среда
+</div>
+<div class="day">Четверг
+</div>
+<div class="day">Пятница
+</div>
+<div class="day">Суббота
+</div>
+</body>
+</html>
