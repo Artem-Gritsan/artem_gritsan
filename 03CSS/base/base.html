@@ -17,14 +17,31 @@
             cursor: pointer;
 
         }
+        .menu {
+            margin-top: 5px;
+        }
 
-        .day:hover {
+        .food {
+            background-color: lightgray;
+            width: 8em;
+            height: 1.5em;
+            border-style: solid;
+            border-width: 1px;
+            border-radius: 7px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .day:hover, .food:hover {
             background-color: dimgray;
         }
 
         @media all and (max-width: 795px) {
             .day {
                 float: none;
+            }
+            .menu{
+                display: none;
             }
         }
     </style>
@@ -35,6 +52,11 @@
 <div class="day">Вторник
 </div>
 <div class="day">Среда
+    <div class="menu">
+        <div class="food">Завтрак</div>
+        <div class="food">Обед</div>
+        <div class="food">Ужин</div>
+    </div>
 </div>
 <div class="day">Четверг
 </div>
