@@ -16,8 +16,11 @@
             text-align: center;
             cursor: pointer;
 
+
         }
+
         .menu {
+            display: none;
             margin-top: 5px;
         }
 
@@ -32,24 +35,47 @@
             cursor: pointer;
         }
 
-        .day:hover, .food:hover {
+        .day:hover {
             background-color: dimgray;
+        }
+
+        .food:hover {
+            background-color: dimgray;
+        }
+
+        .day:hover .menu {
+            display: block;
         }
 
         @media all and (max-width: 795px) {
             .day {
                 float: none;
+                position: relative;
             }
-            .menu{
-                display: none;
+            .menu {
+                position: relative;
+                left: 8em;
+                bottom: 1.5em;
+
             }
+
         }
     </style>
 </head>
 <body>
 <div class="day">Понедельник
+    <div class="menu">
+        <div class="food">Завтрак</div>
+        <div class="food">Обед</div>
+        <div class="food">Ужин</div>
+    </div>
 </div>
 <div class="day">Вторник
+    <div class="menu">
+        <div class="food">Завтрак</div>
+        <div class="food">Обед</div>
+        <div class="food">Ужин</div>
+    </div>
 </div>
 <div class="day">Среда
     <div class="menu">
@@ -59,10 +85,25 @@
     </div>
 </div>
 <div class="day">Четверг
+    <div class="menu">
+        <div class="food">Завтрак</div>
+        <div class="food">Обед</div>
+        <div class="food">Ужин</div>
+    </div>
 </div>
 <div class="day">Пятница
+    <div class="menu">
+        <div class="food">Завтрак</div>
+        <div class="food">Обед</div>
+        <div class="food">Ужин</div>
+    </div>
 </div>
 <div class="day">Суббота
+    <div class="menu">
+        <div class="food">Завтрак</div>
+        <div class="food">Обед</div>
+        <div class="food">Ужин</div>
+    </div>
 </div>
 </body>
 </html>
