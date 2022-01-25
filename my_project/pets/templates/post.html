@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block data_block %}
+<div class="titles" style="border-bottom: #ddd 1px solid;margin-bottom: 15px;border-radius: 5px 5px 0 0;"><h4>{{post.title}}</h4></div>
+<p class="text-break">{{post.content}}</p>
+<table class="table table-striped">
+    <tr>
+        <td>Breed:</td>
+        <td>{{post.breed}}</td>
+    </tr>
+    <tr>
+        <td>Сontact person:</td>
+        <td>{{post.сontact_person}}</td>
+    </tr>
+    <tr>
+        <td>Phone:</td>
+        <td>{{post.tel}}</td>
+    </tr>
+    <tr>
+        <td>Locality:</td>
+        <td>{{post.locality}}</td>
+    </tr>
+    <tr>
+        <td>Price:</td>
+        <td>{{post.price}}</td>
+    </tr>
+
+</table>
+<img src="{{post.image.url}}" class="img-fluid" width="600" height="500">
+{% endblock data_block %}

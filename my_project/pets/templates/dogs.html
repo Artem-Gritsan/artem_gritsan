@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block data_block %}
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+    {% for p in posts %}
+            <div class="col">
+                <div class="card">
+                    <img src="{{p.image.url}}" class="card-img-top" alt="" height="400">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ p.title }}</h5>
+                        <p class="card-text" style="overflow: hidden; white-space: nowrap;text-overflow: ellipsis;">{{ p.content }}</p>
+                        <a href="{% url 'post' p.id %}" class="btn btn-dark">Read more</a>
+                        {% if p.id in viewed_posts.values %}
+                            <button type="button" class="btn btn-secondary me-md-2" disabled style="float: right; height: 10;">Viewed</button>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+    {% endfor %}
+    </div>
+{% endblock data_block %}

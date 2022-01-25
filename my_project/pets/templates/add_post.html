@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block data_block %}
+
+<h3 style="margin-bottom: 20px;">Add new post:</h3>
+
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <!-- {{ form.as_p }} -->
+
+     {{form.pet_type}}<br><br>
+     {{form.title}}<br>
+     {{form.content}}<br>
+     {{form.breed}}<br>
+     {{form.сontact_person}}<br>
+     {{form.tel}}<br>
+     {{form.locality}}<br>
+     {{form.price}}<br>
+     {{form.image}}<br>
+     <br>
+     <button type="submit" class="btn btn-secondary">Add post</button>
+</form>
+
+{% endblock %}
