@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c63543f-bebc-4ab9-88e1-c7ea6bee377c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../01CSS/add/add.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/add/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/add/fonts/larisa_script.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/add/fonts/larisa_script.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/add/fonts/larisa_script.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/add/fonts/larisa_script.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/add/fonts/larisa_script.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/01body.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/02style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/03link/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/03link/mystyle_for_print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/03link/mystyle_for_screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/04import/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/04import/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/04import/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/05last/05end.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/1/05last/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/2/letter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01CSS/base/2/letter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01FW/Foundation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01FW/skeleton.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01HTML/Additional.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01HTML/task02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01HTML/task03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01HTML/task04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/bottom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/l-b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/l-t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/method1/1div.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/method2/9div.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/method3/background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/method4/unnamed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/r-b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/r-t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/right.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/1/unnamed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/add/2/02add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/base/01base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/base/02base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/base/03base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/base/cards.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02CSS/base/icon_mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02HTML/01Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02HTML/02Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03CSS/add/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03CSS/base/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/link1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/link2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/link3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/about/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/about/scheme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/catalog/a_w.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/catalog/s_s.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/news/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/promo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/promo/last.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03HTML/site.by/promo/old.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/add/add01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/add/add02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/base/PDF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/base/Word.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/base/ZIP.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/base/base01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/base/base02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/base/base03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/pic/extref.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/pic/logo-doc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/pic/logo-list.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/pic/logo-pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04CSS/pic/logo-zip.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/add/Icon-Python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/add/SVG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/add/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/add/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/add/prev.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/base/01media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/base/02media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/base/03media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/base/Icon-Python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/base/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/base/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04HTML/base/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05HTML/01Form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05HTML/02Form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05HTML/email.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2e8f44c5-fd28-464d-8443-4a4d615602e7" />
+        <option name="url" value="https://github.com/MikitaTsiarentsyeu/Md-PT1-40-21.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24BQnMOchKlFCM3SYLy3kWZjMYw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="my_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="my_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c63543f-bebc-4ab9-88e1-c7ea6bee377c" name="Changes" comment="" />
+      <created>1643101666043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643101666043</updated>
+      <workItem from="1643101667252" duration="324000" />
+      <workItem from="1643102235384" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+</project>
